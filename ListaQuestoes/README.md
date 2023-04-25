@@ -1,7 +1,12 @@
 | Questões | Enunciado |
 | ------------- | ------------- |
-| `02`  | coloca o enunciado aqui <br> <br> 
-| `03`  | coloca o enunciado aqui <br> 
-| `05`  | coloca o enunciado aqui <br> <br> 
-| `17`  | coloca o enunciado aqui <br> 
-| `25`  | coloca o enunciado aqui <br> 
+| `02`  | Faça um programa que leia um valor N inteiroo e positivo, calcule e mostre o valor de E, conforme a fórmula a seguir: E = 1+1/1!+1/2!+1/3!+...+1/N! <br> <br> 
+| `05`  | Faça um programa que leia dez conjuntos de dois valores, o primeiro representando o número do aluno e o segundo representando a sua altura em centímetros. Encontre o aluno mais alto e o mais baixo. Mostre o número do aluno mais alto e o número do mais baixo, junto com suas alturas. <br> 
+| `08`  | Uma empresa possui dez funcionários com as seguintes características; código, número de horas trabalhadas no mês, turno de trabalho (M - Matutino, V- Vespertino ou N- Noturno), categoria (O - Operário ou G - Gerente), valor da hora trabalhada. Sabendo-se que essa empresa deseja informatizar sua folha de pagamento, faça um programa que: a) leia as informações dos funcionários, exceto o valor da hora trabalhada, não permitindo que sejam informados turnos nem categorias inexistentes. Trabalhar sempre com a digitação de letras maiúsculas; b) calcule o valor da hora trabalhada, conforme a tabela c) Adote o valor de R$ 150,00 para o salário mínimo calcule o salário inicial dos funcionários com base no valor da hora trabalhada e no número de horas trabalhadas; d) calcule o valor do auxilio-alimentação recebido por funcionário de acordo com o seu salário inicial, conforme a tabela a seguir. e) mostre o código, número de horas trabalhadas, valor da hora trabalhada, salário inicial, auxflio-alimentação e o salário final (salário inicial + auxílio-alimentação). <br> <br> 
+| `12`  | Faça um programa que receba o valor de X e o número de termos desejados. Calcule e mostre o valor da seguinte seqiiência: S = 1 + X/3! - X/4! + X/5! = X/6! + X/7! - ... <br> 
+| `16`  | Faça um programa que receba dois números. Calcule e mostre: * a soma dos números pares desse intervalo de números, incluindo os números digitados; * a multiplicação dos números ímpares de números digitados; <br> 
+| `18`  | Faça um programa que receba um número inteiro maior que 1 e verifique se o número fornecido é primo ou não. Mostrar mensagem de número primo ou de número não primo. Um número é primo quando é divisível apenas pelo número um e por ele mesmo. <br> 
+| `27`  | Faça um programa para calcular a área de um triângulo. Esse programa não pode permitir a entrada de dados inválidos, ou seja, medidas menores ou iguais a 0. <br> 
+| `28`  | Faça um programa que leia o código dos itens pedidos e as quantidades desejadas. Calcule e mostre o valor a ser pagi por item (preço *quantidade) e o total geral do pedido. Considere que o cliente deve informar quando o pedido deve ser encerrado. <br> 
+| `30`  | Faça um programa que leia um conjunto não determinado de valores, um de cada vez. e escreva uma tabela com cabeçalho, que deve ser repetido a cada 20 linhas. A tabela deverá conter o valor lido, seu quadrado, seu cubo e sua raiz quadrada. Finalizar a entrada de dados com um valor negativo ou zero. <br> 
+| `36`  | Faça um programa que: * leia um númeos indeterminado de linhas contendo cada uma a idade de um indivíduo. A pultima linha, que não entrará nos cálculos, contém o valor da idade igual a zero; * calcule e mostre a idade média desse grupo de indivíduos. <br> 
